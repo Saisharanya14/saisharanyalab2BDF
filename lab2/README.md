@@ -8,7 +8,7 @@
 **Faculty:** SHIVA SAI TEJA
 **Title:** SQLite database and CRUD routes
 
-## Live Link https://vinuthna-5017-lab2.onrender.com/books
+## Live Link https://saisharanyalab2bdf.onrender.com/books
 
 **Status:** deployed
 
